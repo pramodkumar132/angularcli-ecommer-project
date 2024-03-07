@@ -1,0 +1,546 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": "2"
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": "3"
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": "4"
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": "5"
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": "6"
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": "7"
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": "8"
+    },
+    {
+      "id": "5c24",
+      "name": "pramo sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "38e9",
+      "name": "pramod kumar",
+      "email": "pramod@seller.com",
+      "password": "pramod@123"
+    },
+    {
+      "id": "0a45",
+      "name": "",
+      "password": "55555555555",
+      "email": "pramodkumar3421121@gmail.com"
+    },
+    {
+      "id": "286f",
+      "name": "pramod krsssss",
+      "password": "654321",
+      "email": "kuamrpk"
+    },
+    {
+      "id": "8b26",
+      "name": "Pks",
+      "password": "896955",
+      "email": "pramodkumar31@gmail.com"
+    },
+    {
+      "id": "ff8d",
+      "name": "pks",
+      "password": "896955",
+      "email": "pramodkumar31@gmail.com"
+    },
+    {
+      "id": "3f76",
+      "name": "pramod krsssss",
+      "password": "896955",
+      "email": "pramodkumar31@gmail.com"
+    },
+    {
+      "id": "48f3",
+      "name": "pramod krsssss",
+      "password": "896955",
+      "email": "pramodkumar31@gmail.com"
+    },
+    {
+      "id": "f83d",
+      "name": "",
+      "password": "896955",
+      "email": "pramodkumar31@gmail.com"
+    },
+    {
+      "id": "fafe",
+      "name": "pks",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "e735",
+      "name": "",
+      "password": "123456",
+      "email": "pramod"
+    },
+    {
+      "id": "db46",
+      "name": "pks",
+      "password": "123456",
+      "email": "pramod"
+    },
+    {
+      "id": "ad4d",
+      "name": "pramod krsssss",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "7d04",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "2195",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "cdac",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "c03b",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "f017",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "7e41",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "92fb",
+      "name": "rahul kumar",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "eba7",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "8deb",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "b524",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "44e8",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "e9a0",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "ad68",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    },
+    {
+      "id": "7845",
+      "name": "",
+      "password": "1111111",
+      "email": "pks"
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": "1"
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": "2"
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": "4"
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Truck",
+      "price": "Toy",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": "6"
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": "7"
+    },
+    {
+      "id": "12",
+      "name": "laptop",
+      "price": "40000",
+      "category": " laptop Abstract Multicolor Wallpaper ",
+      "color": " Multicolor",
+      "description": "Multicolor ",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg"
+    },
+    {
+      "id": "14",
+      "name": "laptop",
+      "price": "40000",
+      "category": " laptop Abstract Multicolor Wallpaper ",
+      "color": " Multicolor",
+      "description": "Multicolor ",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg"
+    },
+    {
+      "name": "boAt Rockerz 335",
+      "price": "₹1699",
+      "category": "ear phone",
+      "color": "Ocean Blue",
+      "description": "this is a Bluetooth",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ke1pnrk0-0/headphone/i/y/u/rockerz-335-boat-original-imafutfr4rkwvxgy.jpeg?q=70&crop=false",
+      "id": "16"
+    },
+    {
+      "id": "16",
+      "name": "boAt Rockerz 335",
+      "price": "1699",
+      "category": "ear phone",
+      "color": "Ocean Blue",
+      "description": "this is a Bluetooth",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ke1pnrk0-0/headphone/i/y/u/rockerz-335-boat-original-imafutfr4rkwvxgy.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "200b",
+      "name": "photowallpaper",
+      "price": "222",
+      "category": "birds",
+      "color": "greay",
+      "description": "photowallpaper",
+      "image": "https://as2.ftcdn.net/v2/jpg/05/35/33/39/1000_F_535333922_tBGFT4qC3bLUrnKWWQhj8pXHS1cQIuFK.jpg"
+    },
+    {
+      "id": "16",
+      "name": "boAt Rockerz 335",
+      "price": "1699",
+      "category": "ear phone",
+      "color": "Ocean Blue",
+      "description": "this is a Bluetooth",
+      "image": "https://rukminim2.flixcart.com/image/416/416/ke1pnrk0-0/headphone/i/y/u/rockerz-335-boat-original-imafutfr4rkwvxgy.jpeg?q=70&crop=false"
+    },
+    {
+      "id": "89c2",
+      "name": "",
+      "price": "",
+      "category": "",
+      "color": "",
+      "description": "",
+      "image": ""
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": "1"
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": "2"
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": "3"
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": "4"
+    },
+    {
+      "id": "6a6a",
+      "name": "kumar pramod",
+      "email": "pramodkumar3421121@gmail.com",
+      "password": "896955"
+    },
+    {
+      "id": "7877",
+      "name": "pramodkumar3421121@gmail.com",
+      "email": "",
+      "password": "896955"
+    },
+    {
+      "id": "65e9",
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "836b",
+      "name": "pramod",
+      "email": "pramoddeveloper37@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5a00",
+      "name": "peter@test.com",
+      "email": "",
+      "password": "abc@123"
+    },
+    {
+      "id": "0e2c",
+      "name": "peter@test.com",
+      "email": "pramodkumar3421121@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "b529",
+      "name": "kuamrpk",
+      "email": "kumarpramod@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "ad5a",
+      "name": "kuamrpk",
+      "email": "superadmin@gmail.com",
+      "password": "654321"
+    },
+    {
+      "id": "a918",
+      "name": "pramodkumar3421121@gmail.com",
+      "email": "loginaut12345@gmail.com",
+      "password": "896955"
+    },
+    {
+      "id": "6aae",
+      "name": "pks",
+      "email": "pramodkumar31@gmail.com",
+      "password": "1111111"
+    },
+    {
+      "id": "7606",
+      "name": "pks",
+      "email": "pramodkumar31@gmail.com",
+      "password": "1111111"
+    },
+    {
+      "id": "4331",
+      "name": "pks",
+      "email": "",
+      "password": "1111111"
+    },
+    {
+      "id": "f8cb",
+      "name": "pks",
+      "email": "superadmin@gmail.com",
+      "password": "1111111"
+    },
+    {
+      "id": "27f4",
+      "name": "pramod",
+      "email": "loginaut12345@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": "7"
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": "8"
+    },
+    {
+      "id": "cc2a",
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": "1",
+      "userId": "6a6a"
+    },
+    {
+      "id": "ae48",
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 2,
+      "productId": "1",
+      "userId": "836b"
+    },
+    {
+      "id": "8aef",
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": "1",
+      "userId": "65e9"
+    },
+    {
+      "id": "bac1",
+      "name": "photowallpaper",
+      "price": "222",
+      "category": "birds",
+      "color": "greay",
+      "description": "photowallpaper",
+      "image": "https://as2.ftcdn.net/v2/jpg/05/35/33/39/1000_F_535333922_tBGFT4qC3bLUrnKWWQhj8pXHS1cQIuFK.jpg",
+      "quantity": 2,
+      "productId": "200b",
+      "userId": "7606"
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": "1"
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": "3"
+    },
+    {
+      "id": "b408",
+      "email": "pramodkumar3421121@gmail.com",
+      "address": "MalviyaNagar",
+      "contact": "08930371963",
+      "totalPrice": 100100,
+      "userId": "6a6a"
+    }
+  ]
+}
